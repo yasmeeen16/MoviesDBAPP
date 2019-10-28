@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  MoviesDBAPP
+
+  Created by yasmeen on 10/27/19.
+  Copyright © 2019 yasmeen. All rights reserved.
+*/
+"title_text" = "الافلام";
+"show_all_btn" = "اظهار الكل";
+"movies" = "افلام";
+"top_rated" = "الاعلي تقييم";
+"popular" = "الاشهر";
+"coming" = "القادم";
+"soon" = "قريبا";
+"playing" = "المعروضه";
+"now" = "الان";

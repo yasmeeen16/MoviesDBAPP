@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.7.2)
+  - YouTubePlayer-Swift (1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - YouTubePlayer-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - YouTubePlayer-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  YouTubePlayer-Swift: ae82f4bcb504162a872b852596a9dc1fa3828c34
+
+PODFILE CHECKSUM: f6cdb04c049a1429d11b93a31f883f1484add722
+
+COCOAPODS: 1.5.3

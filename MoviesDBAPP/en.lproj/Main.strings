@@ -1,0 +1,81 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "0ms-dL-0fp"; */
+"0ms-dL-0fp.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6q9-uS-cFM"; */
+"6q9-uS-cFM.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Show all"; ObjectID = "AX5-Ce-U9v"; */
+"AX5-Ce-U9v.normalTitle" = "Show all";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor "; ObjectID = "Agg-XM-mSP"; */
+"Agg-XM-mSP.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AkI-2H-ZtG"; */
+"AkI-2H-ZtG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "soon"; ObjectID = "FE8-Fe-LB1"; */
+"FE8-Fe-LB1.text" = "soon";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G6x-kX-yLd"; */
+"G6x-kX-yLd.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Show all"; ObjectID = "JA0-Ho-mgH"; */
+"JA0-Ho-mgH.normalTitle" = "Show all";
+
+/* Class = "UILabel"; text = "Popular"; ObjectID = "Jbt-Qr-3Lf"; */
+"Jbt-Qr-3Lf.text" = "Popular";
+
+/* Class = "UILabel"; text = "Reviews"; ObjectID = "JlY-VX-UBx"; */
+"JlY-VX-UBx.text" = "Reviews";
+
+/* Class = "UILabel"; text = "Movies"; ObjectID = "QLc-YV-KYR"; */
+"QLc-YV-KYR.text" = "Movies";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna "; ObjectID = "RSc-dv-zRf"; */
+"RSc-dv-zRf.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna ";
+
+/* Class = "UIButton"; normalTitle = "Show all"; ObjectID = "Rsr-oL-6FA"; */
+"Rsr-oL-6FA.normalTitle" = "Show all";
+
+/* Class = "UILabel"; text = "Now"; ObjectID = "S5n-jY-j39"; */
+"S5n-jY-j39.text" = "Now";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SzS-61-OxZ"; */
+"SzS-61-OxZ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Show all"; ObjectID = "TPV-ZB-IBG"; */
+"TPV-ZB-IBG.normalTitle" = "Show all";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "UDs-4B-Jp6"; */
+"UDs-4B-Jp6.text" = "Overview";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZBW-1p-R68"; */
+"ZBW-1p-R68.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "The Movies"; ObjectID = "gd9-RS-Aof"; */
+"gd9-RS-Aof.title" = "The Movies";
+
+/* Class = "UILabel"; text = "Top Rated"; ObjectID = "jqG-iW-haN"; */
+"jqG-iW-haN.text" = "Top Rated";
+
+/* Class = "UILabel"; text = "Movies"; ObjectID = "jya-gE-ksy"; */
+"jya-gE-ksy.text" = "Movies";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "k3B-5Y-vFN"; */
+"k3B-5Y-vFN.normalTitle" = "Play";
+
+/* Class = "UILabel"; text = "Playing"; ObjectID = "pQn-oH-qWs"; */
+"pQn-oH-qWs.text" = "Playing";
+
+/* Class = "UILabel"; text = "comming"; ObjectID = "pgl-1h-tSl"; */
+"pgl-1h-tSl.text" = "comming";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ruO-wB-X3b"; */
+"ruO-wB-X3b.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "teg-48-c2p"; */
+"teg-48-c2p.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wzr-7R-kRS"; */
+"wzr-7R-kRS.text" = "Label";
